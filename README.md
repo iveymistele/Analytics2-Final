@@ -7,9 +7,7 @@ Operating System: Mac
 
 ## Section 2 (Map of documentation)
 |                                                                                                                                                                                                                      
-|-paddyclean.csv                                                                                                                                                                                                  
-|-paddydataset.csv                                                                                                                                                                                                  
-|-file_splitter.csv                                                                                                                                                                                                     
+|-final_report.pdf                                                                                                                                                                                                   
 |                                                                                                                                                                                                                     
 |- **notebooks**                                                                                                                                                                                    
       |-- Regression_SVM.ipynb                                                                                                                                                                           
