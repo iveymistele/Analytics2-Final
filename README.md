@@ -11,19 +11,19 @@ Operating System: Mac
 |-paddydataset.csv                                                                                                                                                                                                  
 |-file_splitter.csv                                                                                                                                                                                                     
 |                                                                                                                                                                                                                     
-|- notebooks                                                                                                                                                                                    
+|- # notebooks                                                                                                                                                                                    
       |-- Regression_SVM.ipynb                                                                                                                                                                           
       |-- Ensemble.ipynb                                                                                                                                                                                  
       |-- Nueral_net.ipynb                                                                                                                                                  
       |--file_splitter.ipynb
 |                                                                                                                                                                                                            
-|- data                                                                                                                                                                                                      
+|- # data                                                                                                                                                                                                      
       |--X_test.csv                                                                                                                      
       |--y_test.csv                                                                                                                                                                                    
       |--paddyclean.csv                                                                                                                                                                                          
       |--paddydataset.csv                                                                                                                                                                                   
 |                                                                                                                                                                                                                  
-|- outputs                                                                                                                                                                                                      
+|- # outputs                                                                                                                                                                                                      
       |--EDA1.png                                                                                                                                                                                                
       |--EDA2.png                                                                                                                              
       |--RF.png                                                                                                                                                                               
